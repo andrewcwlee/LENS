@@ -1,0 +1,12 @@
+[submodule "RLBench"]
+	path = RLBench
+	url = https://github.com/andrewcwlee/RLBench.git
+[submodule "ARM"]
+	path = ARM
+	url = https://github.com/andrewcwlee/ARM.git
+[submodule "YARR"]
+	path = YARR
+	url = https://github.com/andrewcwlee/YARR.git
+[submodule "PyRep"]
+	path = PyRep
+	url = https://github.com/stepjam/PyRep.git
